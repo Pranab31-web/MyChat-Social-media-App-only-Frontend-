@@ -1,8 +1,11 @@
-# React + Vite
+Hey there, this is a frontend based on react of a social media app. I have designed this while learning react.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+If you want to run the website,
+1. Unzip all the zip folders provided
+2. Keep those folders and all the other files in same folder
+3. open the terminal on that folder
+4. Type 'npm run dev'
+5. Click on the localhost it generated on your pc.
+You are good to go.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Please suggest any feedbacks if you have.
